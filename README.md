@@ -41,8 +41,8 @@ python main.py
 
 ## Screenshots
 
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
+![Screenshot1](/screenshot_1.png)
+
 
 ## Contributing
 
