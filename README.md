@@ -43,4 +43,6 @@ python main.py
 
 ![Screenshot1](/screenshot_1.png)
 
+---
+
 
